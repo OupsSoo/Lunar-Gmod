@@ -3,7 +3,7 @@
 ## Introduction
 Lunar GMod Internal Cheat est un cheat interne pour Garry's Mod, développé pour améliorer l'expérience de jeu des utilisateurs en leur offrant diverses fonctionnalités avancées. Ce cheat a été conçu pour être simple à utiliser, offrant deux méthodes d'injection pour convenir à différentes préférences des utilisateurs.
 
-⚠️ **Remarque :** Assurez-vous de ne pas mettre le jeu en BETA x86-64, sinon le cheat ne fonctionnera pas !
+⚠️ **Remarque :** Assurez-vous de ne pas avoir le jeu en BETA x86-64, sinon le cheat ne fonctionnera pas !
 
 ## Requis
 Avant d'utiliser ce cheat, assurez-vous d'avoir installé les redistribuables suivants :
