@@ -42,4 +42,4 @@ Avant d'utiliser ce cheat, assurez-vous d'avoir installé les redistribuables su
 
 ## Avertissement
 
-Ce cheat est destiné uniquement à des fins de divertissement. Son utilisation peut entraîner des interdictions permanentes sur certains serveur. L'utilisateur est entièrement responsable de l'utilisation de ce cheat et des conséquences éventuelles, y compris les dommages et les interdictions sur les serveurs.
+Ce cheat est destiné uniquement à des fins de divertissement. Son utilisation peut entraîner des interdictions permanentes sur certains serveurs. L'utilisateur est entièrement responsable de l'utilisation de ce cheat et des conséquences éventuelles, y compris les dommages et les interdictions sur les serveurs.
